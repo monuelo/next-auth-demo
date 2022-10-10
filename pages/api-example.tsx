@@ -14,6 +14,9 @@ export default function ApiExamplePage() {
       <h2>JSON Web Token</h2>
       <p>/api/examples/jwt</p>
       <iframe src="/api/examples/jwt" />
+      <h2>httpbin</h2>
+      <p>/api/examples/httpbin</p>
+      <iframe src="/api/examples/httpbin" />
     </Layout>
   )
 }
